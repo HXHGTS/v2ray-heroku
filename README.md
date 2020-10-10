@@ -14,7 +14,7 @@
 
 Windows下用cmd执行:
 ```
-powershell [guid]::NewGuid() | find /v \"Guid\" | find /v \"--\" | find \"-\"
+powershell [guid]::NewGuid() | find /v "Guid" | find /v "--" | find "-"
 ```
 
 ## 注意
