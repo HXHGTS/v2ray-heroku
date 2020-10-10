@@ -12,7 +12,10 @@
 
 ### UUID
 
-[uuidgen](https://www.uuidgenerator.net/)
+Windows下用cmd执行:
+```
+powershell [guid]::NewGuid() | find /v \"Guid\" | find /v \"--\" | find \"-\"
+```
 
 ## 注意
 
