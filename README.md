@@ -16,7 +16,10 @@ Windows下用cmd执行:
 ```
 powershell [guid]::NewGuid() | find /v "Guid" | find /v "--" | find "-"
 ```
-
+Linux下用bash执行:
+```
+uuidgen
+```
 ## 注意
 
 WebSocket 路径为 `/`。
