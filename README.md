@@ -22,6 +22,11 @@ Linux下用bash执行:
 ```
 uuidgen
 ```
+
+### CDN嵌套方法
+
+[CDN嵌套方法](https://hxhgts.icu/v2ray-websocket-tls-nginx/cdn.html)
+
 ## 注意
 
 部署时一定不要用默认的uuid，记得替换！！！
