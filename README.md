@@ -10,7 +10,7 @@
 
 ## ENV 设定
 
-### UUID
+### UUID生成方法
 
 Windows下用cmd执行:
 ```
@@ -21,6 +21,8 @@ Linux下用bash执行:
 uuidgen
 ```
 ## 注意
+
+部署时一定不要用默认的uuid，记得替换！！！
 
 WebSocket 路径为 `/`。
 
