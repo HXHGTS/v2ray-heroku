@@ -6,7 +6,7 @@
 
 用于在 Heroku 上部署 V2Ray Websocket + tls
 
-## 一键部署到Heroku（此项目暂不可用，等待更新）
+## 一键部署到Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FHXHGTS%2Fv2ray-heroku)
 
@@ -31,6 +31,10 @@ uuidgen
 
 部署时一定不要用默认的uuid，记得替换！！！
 
-WebSocket 路径为 `/`。
+WebSocket 路径为 `/`
 
-`alterId` 为 `2`。
+`alterId` 为 `2`
+
+heroku每个月限制550h的免费时长，时长使用完会导致服务器离线，下个月自动恢复
+
+
