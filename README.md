@@ -19,9 +19,8 @@ Windows下用cmd执行:
 powershell [guid]::NewGuid() | find /v "Guid" | find /v "--" | find "-"
 ```
 Linux下用bash执行:
-```
-uuidgen
-```
+
+`uuidgen`
 
 ### CDN嵌套方法
 
