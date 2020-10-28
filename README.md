@@ -6,7 +6,7 @@
 
 用于在 Heroku 上部署 V2Ray Websocket + tls
 
-## 镜像
+## 镜像（此项目暂不可用，等待更新）
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FHXHGTS%2Fv2ray-heroku)
 
