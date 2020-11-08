@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "V2Ray UUID",
-            "value": "fabfd909-6fec-4ba4-bcbc-43cf3352a2bf"
+            "value": "请输入自己生成的的UUID替换本行"
         }
     },
     "website": "https://github.com/HXHGTS/v2ray-heroku/",
