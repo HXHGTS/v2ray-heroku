@@ -32,7 +32,7 @@ Linux下用bash执行:
 
 WebSocket 路径为 `/`
 
-`alterId` 为 `2`
+`alterId` 为 `0`
 
 heroku每个月限制550h的免费时长，时长使用完会导致服务器离线，下个月自动恢复
 
