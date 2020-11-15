@@ -3,7 +3,7 @@
     "description": "Deploy V2ray on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
-            "description": "UUID，Windows10用cmd运行value中的命令生成uuid，并替换value的值",
+            "description": "Windows10用cmd运行value中的命令生成，并替换value的值",
             "value": "powershell [guid]::NewGuid() | find /v "Guid" | find /v "--" | find "-""
     },
     "website": "https://github.com/HXHGTS/v2ray-heroku/",
