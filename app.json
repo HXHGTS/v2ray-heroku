@@ -3,10 +3,6 @@
     "description": "Deploy V2ray on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
-        "UUID": {
-            "description": "V2Ray UUID",
-            "value": "请输入自己生成的的UUID替换本行"
-        }
     },
     "website": "https://github.com/HXHGTS/v2ray-heroku/",
     "repository": "https://github.com/HXHGTS/v2ray-heroku/",
