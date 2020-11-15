@@ -12,6 +12,7 @@ rm -rf /tmp/v2ray
 
 # V2Ray new configuration
 install -d /usr/local/etc/v2ray
+UUID='uuidgen'
 cat << EOF > /usr/local/etc/v2ray/config.json
 {
     "inbounds": [
