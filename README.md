@@ -24,7 +24,7 @@ Linux下用bash执行:
 
 在线生成UUID(推荐):
 
-[网页在线生成(新标签页打开)](http://tool.pfan.cn/guidgen/create?chkbrace=0&chkhyphen=1&chkupper=0&num=1)
+[网页在线生成(新标签页打开)](<a href="http://tool.pfan.cn/guidgen/create?chkbrace=0&chkhyphen=1&chkupper=0&num=1" target="_blank">)
 
 ### CDN嵌套方法
 
