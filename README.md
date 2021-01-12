@@ -28,7 +28,7 @@ Linux下用bash执行:
 
 ### CDN嵌套方法
 
-[CDN嵌套方法](https://hxhgts.icu/v2ray-websocket-tls-nginx/cdn.html)
+[CDN嵌套方法](https://hxhgts.ml/v2ray-websocket-tls-nginx/cdn.html)
 
 ## 注意
 
