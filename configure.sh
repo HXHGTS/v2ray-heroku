@@ -7,10 +7,6 @@ unzip /tmp/v2ray/v2ray.zip -d /tmp/v2ray
 install -m 755 /tmp/v2ray/v2ray /usr/local/bin/v2ray
 install -m 755 /tmp/v2ray/v2ctl /usr/local/bin/v2ctl
 
-# Change Cloudflare DNS Server
-echo 'nameserver 1.1.1.1' > /etc/resolv.conf
-echo 'nameserver 1.0.0.1' >> /etc/resolv.conf
-
 # Remove temporary directory
 rm -rf /tmp/v2ray
 
