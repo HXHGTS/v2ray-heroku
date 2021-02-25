@@ -8,7 +8,7 @@
 
 ## 一键部署到Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HXHGTS/v2ray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## ENV 设定
 
